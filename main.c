@@ -18,7 +18,7 @@ void print_binary(uint8_t byte) {
 
 int main() {
 
-    input* bytes = read_file("./input/part1/listing_0039_more_movs");
+    input* bytes = read_file("./input/assembled_mov_instructions");
 
     for (size_t j = 0; j < bytes->len; j++) {
         printf("\nByte #%zu:\n", j);

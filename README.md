@@ -1,3 +1,5 @@
-<sup>Definitely don't use this code.</sup>
+<sup>A limited 16bit 8086 decoder.</sup>
 
-<sub>Very early days. Only implemented very simple moves.</sub>
+---
+
+<sup>Definitely don't use this code.</sup>
